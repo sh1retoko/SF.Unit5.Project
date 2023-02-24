@@ -1,0 +1,8 @@
+E:\project\SF.Work\SF.Unit5\obj\Debug\SF.Unit5.csproj.AssemblyReference.cache
+E:\project\SF.Work\SF.Unit5\obj\Debug\SF.Unit5.csproj.SuggestedBindingRedirects.cache
+E:\project\SF.Work\SF.Unit5\obj\Debug\SF.Unit5.csproj.CoreCompileInputs.cache
+E:\project\SF.Work\SF.Unit5\bin\Debug\SF.Unit5.exe.config
+E:\project\SF.Work\SF.Unit5\bin\Debug\SF.Unit5.exe
+E:\project\SF.Work\SF.Unit5\bin\Debug\SF.Unit5.pdb
+E:\project\SF.Work\SF.Unit5\obj\Debug\SF.Unit5.exe
+E:\project\SF.Work\SF.Unit5\obj\Debug\SF.Unit5.pdb
